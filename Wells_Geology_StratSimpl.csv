@@ -1,0 +1,61 @@
+WellID,From,To,Lithology,Strat_Simplified,Strat_Simplified_Viro,Stratigraphy
+VIROVITICA-1,0.0,15.0,"humus, sand, clay and gravel",,QUATERNARY,Quaternery layers
+VIROVITICA-1,15.0,700.0,"clay, sand and marl",,RHOMBOIDE LAYERS,Rhomboide layers
+VIROVITICA-1,700.0,1750.0,marls and sandstones,,ABICHI LAYERS,Abichi layers
+VIROVITICA-1,1750.0,2903.0,marls and sandstones,,MIOCENE,Miocene layers
+VIROVITICA-1,2903.0,2956.0,coarse-grained basaltic volcanic rock,,DOLERITE,Dolerite (Basement rock)
+VIROVITICA-3ALFA,0.0,86.0,sandy clays,Lonja,Lonja,Lonja formation
+VIROVITICA-3ALFA,86.0,757.0,sandy clays,Bilogora,Bilogora,Bilogora formation
+VIROVITICA-3ALFA,757.0,860.0,marly clay and sandstones,Bilogora,Bilogora,Bilogora formation
+VIROVITICA-3ALFA,860.0,1517.0,marls and sandstones,KLOSTAR IVANIC,KLOSTAR IVANIC,KloStar Ivanic formation (Pepelana and Poljana sandstones)
+VIROVITICA-3ALFA,1517.0,1854.0,marls and argillaceous sandstones,IVANIC GRAD,IVANIC GRAD,Ivanic Grad formation (Okoli sandstones)
+VIROVITICA-3ALFA,1854.0,2481.0,sandy marls and argillaceous sandstones,MOSLAVACKA GORA,MOSLAVACKA GORA,Moslavacka gora formation (Koprivnicki sandstones)
+VIROVITICA-3ALFA,2481.0,3525.0,sandy marls and qaurtz argillaceous sandstones,MOSLAVACKA GORA,MOSLAVACKA GORA,Mosti member-Moslavacka gora
+VIROVITICA-3ALFA,3525.0,3584.0,sandy marls and dolomite,MOSLAVACKA GORA,MOSLAVACKA GORA,Moslavacka gora formation  (Mosti)
+VIROVITICA-3ALFA,3584.0,3635.0,"calcareous marls, sandy marls, sandstones and extrusive",MOSLAVACKA GORA,MOSLAVACKA GORA,Moslavacka gora formation  (Mosti)
+VIROVITICA-3ALFA,3656.0,3945.0,"limestone dolomite, sandstones (in traces) and extrusive",MOSLAVACKA GORA,MOSLAVACKA GORA,Moslavacka gora fm. (Mosti)
+VIROVITICA-3ALFA,3945.0,4087.0,"dolomite, calcite, extrusive, quartz",MOSLAVACKA GORA,MOSLAVACKA GORA,Moslavacka gora fm. (Mosti)
+LONCCARICA-1,0.0,390.0,"clays, gravel, clayey sands with coal",Lonja,Lonja,Lonja and Siroko Polje formation
+LONCCARICA-1,390.0,770.0,clayey sandstone that transitions into sandy marls interbedded with sandstones,KLOSTAR IVANIC,KLOSTAR IVANIC,Bregi sandstones
+LONCCARICA-1,770.0,830.0,sandy marls interbedded with sandstones,KLOSTAR IVANIC,KLOSTAR IVANIC,Cabuna marl
+LONCCARICA-1,830.0,980.0,argillaceous sandstones interbedded with sandy marls,KLOSTAR IVANIC,KLOSTAR IVANIC,Pepelana sandstones
+LONCCARICA-1,980.0,1030.0,sandy marls interbedded with sandstones,KLOSTAR IVANIC,KLOSTAR IVANIC,Graberski marl
+LONCCARICA-1,1030.0,1100.0,argillaceous sandstones interbedded with marls,KLOSTAR IVANIC,KLOSTAR IVANIC,Poljana sandstones
+LONCCARICA-1,1100.0,1110.0,sandy marls,KLOSTAR IVANIC,KLOSTAR IVANIC,Lepsicki marl
+LONCCARICA-1,1110.0,1155.0,marls,IVANIC GRAD,IVANIC GRAD,Ivanic grad formation
+LONCCARICA-1,1155.0,1300.0,sandy marls interbedded with sandstones and  silty conglomerates,PRECEC,PRECEC,Precec i Prkos formation
+LONCCARICA-1,1300.0,1445.0,"marls, calcareous marls interbedded with sandstones",PRECEC,PRECEC,Precec i Prkos formation
+LONCCARICA-1,1445.0,1500.0,clayey marls,PRECEC,PRECEC,Precec i Prkos formation
+LONCCARICA-1,1500.0,1765.0,"clayey and sandy marls, also with calcareous marls (sandstones in traces)",PRECEC,PRECEC,Precec i Prkos formation
+SUHOPOLJE-1,0.0,277.0,"gravel, clays, clayey sands and poorly carbonized coal",Lonja,Lonja,Lonja formation
+SUHOPOLJE-1,277.0,745.0,"gravel, clays, clayey sands and poorly carbonized coal",Bilogora,Bilogora,Bilgora formation
+SUHOPOLJE-1,745.0,2015.0,"marly clays, clayey marls, sands and sandstones",KLOSTAR IVANIC,KLOSTAR IVANIC,KloStar Ivanic fm.
+SUHOPOLJE-1,2015.0,2400.0,marls and sandstones,KLOSTAR IVANIC,KLOSTAR IVANIC,KloStar Ivanic fm.
+SUHOPOLJE-1,2400.0,3600.0,argillaceous sandstones with silty marls,IVANIC GRAD,IVANIC GRAD,Ivanic grad fm.
+SUHOPOLJE-1,3600.0,3900.0,silty marls and quartzitic sandstones,IVANIC GRAD,IVANIC GRAD,Ivanic grad fm. (Okoli sandstones)
+SUHOPOLJE-1,3900.0,4025.0,quartzitic sandstones and silty marls,IVANIC GRAD,IVANIC GRAD,Ivanic grad fm. (Okoli sandstones)
+SUHOPOLJE-1,4025.0,4565.0,quartzitic sandstones and siltstone,IVANIC GRAD,IVANIC GRAD,Ivanic Grad fm.
+SUHOPOLJE-1,4565.0,4663.0,quartzitic sandstones and silty marls,IVANIC GRAD,IVANIC GRAD,Okoli sandstones (Ivanic Grad fm.)
+SUHOPOLJE-1,4663.0,4905.0,quartzitic sandstones and silty marls,MOSLAVACKA GORA,MOSLAVACKA GORA,Moslavacka gora fm.
+SUHOPOLJE-1,4905.0,4955.0,silty calcareous marls and calcarenite,MOSLAVACKA GORA,MOSLAVACKA GORA,Moslavacka gora fm. (Koprivnicki sandstones)
+SUHOPOLJE-1,4955.0,4987.5,clastic breccias,MOSLAVACKA GORA,MOSLAVACKA GORA,Moslavacka gora fm. (Mosti member)
+REZOVACCKE_KRCCEVINE-1,0.0,656.0,"clays, marly clays sandy marls interbedded with sandstones",Bilogora,Bilogora,Bilogora formation
+REZOVACCKE_KRCCEVINE-1,656.0,696.0,"marls, sandstones",KLOSTAR IVANIC,KLOSTAR IVANIC,KloStar Ivanic formation: Cabunski marl
+REZOVACCKE_KRCCEVINE-1,696.0,947.0,"marls, sandstones",KLOSTAR IVANIC,KLOSTAR IVANIC,Pepelana sandstones
+REZOVACCKE_KRCCEVINE-1,947.0,1002.0,"marls, sandstones",KLOSTAR IVANIC,KLOSTAR IVANIC,Graberski marl
+REZOVACCKE_KRCCEVINE-1,1002.0,1304.0,"marls, sandstones",KLOSTAR IVANIC,KLOSTAR IVANIC,Poljana sandstones
+REZOVACCKE_KRCCEVINE-1,1304.0,1313.0,"marls, sandstones",KLOSTAR IVANIC,KLOSTAR IVANIC,Lepsicki marl
+REZOVACCKE_KRCCEVINE-1,1313.0,1508.0,alternations of clay and sandstone,IVANIC GRAD,IVANIC GRAD,Ivanic Grad fm.: Okoli sandstones
+REZOVACCKE_KRCCEVINE-1,1508.0,1584.0,alternations of clay and sandstone,IVANIC GRAD,IVANIC GRAD,Lipovac marl
+REZOVACCKE_KRCCEVINE-1,1584.0,2169.0,"marls, sandstones, silty marl interbedded with quartzitic sandstones, siltstone and shales",MOSLAVACKA GORA,MOSLAVACKA GORA,Moslavacka gora fm: Koprivnicki sandstones
+REZOVACCKE_KRCCEVINE-1,2169.0,3312.0,"marls, sandstones, silty marl interbedded with quartzitic sandstones, siltstone and shales",MOSLAVACKA GORA,MOSLAVACKA GORA,Mosti member
+REZOVACCKE_KRCCEVINE-2,0.0,110.0,clay and sand,Lonja,Lonja,Lonja formation
+REZOVACCKE_KRCCEVINE-2,110.0,560.0,"clay, sandy clays and sand",Bilogora,Bilogora,Bilogora formation
+REZOVACCKE_KRCCEVINE-2,560.0,885.0,clayey marls,Bilogora,Bilogora,Bilogora formation
+REZOVACCKE_KRCCEVINE-2,885.0,1545.0,marls and sandstone,KLOSTAR IVANIC,KLOSTAR IVANIC,KloStar Ivanic fm.
+REZOVACCKE_KRCCEVINE-2,1545.0,1845.0,sandstones,IVANIC GRAD,IVANIC GRAD,Ivanic Grad formation
+REZOVACCKE_KRCCEVINE-2,1845.0,1945.0,silty marls and quartzitic sandstones,MOSLAVACKA GORA,MOSLAVACKA GORA,Moslavacka Gora fm.
+REZOVACCKE_KRCCEVINE-2,1945.0,2818.0,marls and sandstone,MOSLAVACKA GORA,MOSLAVACKA GORA,Moslavacka Gora fm.
+REZOVACCKE_KRCCEVINE-2,2818.0,3615.0,silty marls and quartzitic sandstones,MOSLAVACKA GORA,MOSLAVACKA GORA,Moslavacka Gora fm. (Mosti member)
+REZOVACCKE_KRCCEVINE-2,3615.0,4196.0,siltsone and sandstone,MOSLAVACKA GORA,MOSLAVACKA GORA,Moslavacka Gora fm. (Mosti member)
+REZOVACCKE_KRCCEVINE-2,4196.0,4554.0,"siltsone, sandstone and limestones",TERTIARY BASEMENT,TERTIARY BASEMENT,Tertiary Basement
